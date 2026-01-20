@@ -190,7 +190,7 @@ If you use qsim in your research, please cite:
 
 ```bibtex
 @software{qsim2026,
-  author = {Phan, Saki},
+  author = {sakiphan},
   title = {qsim: Quantum Simulation and Physics Library for Go},
   year = {2026},
   url = {https://github.com/sakiphan/qsim-core}
